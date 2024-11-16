@@ -3,7 +3,7 @@
 # 👋 Hi there! <br><br>I'm a Cloud Engineer and Technology Professional with 13+ years of experience spanning cloud architecture, software development, and enterprise solutions. Currently focusing on AWS infrastructure, DevOps practices, and building scalable cloud solutions.<br><br>## 🚀 What I Do<br><br>- Design and implement cloud infrastructure using AWS services (EC2, S3, RDS)<br>- Develop Infrastructure-as-Code solutions with Terraform and AWS CloudFormation<br>- Create automated deployment pipelines and DevOps workflows<br>- Build scalable and cost-effective cloud architectures<br>- Lead technical teams and drive digital transformation initiatives<br><br>## 💻 Tech Stack<br><br>- **Cloud Platforms:** AWS, Azure<br>- **Infrastructure as Code:** Terraform, CloudFormation<br>- **Programming:** Python, SQL, C#, PowerShell, Shell Scripting<br>- **DevOps Tools:** GitLab, GitHub Actions<br>- **Database:** SQL and Database Management<br>- **ITSM:** ServiceNow, Freshdesk<br>- **Methodologies:** ITIL, Agile<br><br>## 🎓 Education & Certifications<br><br>- MSc in Computer Science, University of Houston-Victoria (2023)<br>- AWS Cloud Quest, Cloud Practitioner<br>- Okta Certified Professional<br>- ITIL® v3 Foundation<br>- ISO 9001:2015 Internal Auditor<br><br>## 🌟 Recent Achievements<br><br>- Architected AWS cloud infrastructure that improved system reliability and reduced operational costs<br>- Implemented Infrastructure-as-Code practices that streamlined deployment processes<br>- Led cross-functional teams of 12+ engineers, achieving 50% reduction in incident response time<br>- Spearheaded enterprise ERP implementation for 500+ users, improving efficiency by 25%<br><br>## 🌱 Current Focus<br><br>- Contributing to open-source projects<br>- Pursuing advanced cloud and security certifications<br>- Exploring AI and machine learning applications in cloud computing<br>- Recent graduate of CyberNow Labs (Cohort 21)<br><br>## 📫 Let's Connect<br><br>I'm always interested in collaborating on cloud infrastructure projects and sharing knowledge about DevOps practices and cloud architecture. Feel free to reach out!<br><br>---<br>*"Infrastructure as code, because infrastructure as documentation is wrong more often than it's right."*
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/tokskrafts) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tochukwuiheanacho/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@tochisky) 
 
 # 💻 Tech Stack:
@@ -13,13 +13,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tcdotcom&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tcdotcom&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tcdotcom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Tcdotcom&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tcdotcom&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
