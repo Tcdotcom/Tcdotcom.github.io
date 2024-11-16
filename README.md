@@ -21,3 +21,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tcdotcom&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
