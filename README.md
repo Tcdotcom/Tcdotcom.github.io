@@ -1,7 +1,6 @@
 # Tcdotcom.github.io
 <div style="width:100%;height:0;padding-bottom:80%;position:relative;">
-  <iframe src="https://giphy.com/embed/3kPDmoWdBpQPNhCnUG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
-  </iframe>
+  <iframe src="https://giphy.com/embed/3kPDmoWdBpQPNhCnUG" width="480" height="384" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">via GIPHY</a></p>
 </div>
 <p><a href="https://giphy.com/stickers/siwaOnlineGmbH-siwa-siwi-hagenberg-3kPDmoWdBpQPNhCnUG">via GIPHY</a></p>
 # 💫 About Me:
